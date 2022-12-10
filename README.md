@@ -5,6 +5,8 @@
 
 ##### Test with videos first
 
+link for video output = https://github.com/Khai2708/AI_application_finalproject/blob/main/output_1.mp4
+
 ![image](https://user-images.githubusercontent.com/90145797/206859306-b28801c2-8f84-40dc-b2f4-720cc55ddcc8.png)
 
 ![image](https://user-images.githubusercontent.com/90145797/206859318-d03d8af3-f8e9-45d4-9f56-c79fa1b95550.png)
@@ -12,6 +14,8 @@
 ![image](https://user-images.githubusercontent.com/90145797/206859330-5787c321-74df-4e9d-bd8c-bc0e8f556609.png)
 
 ##### Test with live cam
+
+link for video output = https://github.com/Khai2708/AI_application_finalproject/blob/main/Output_2.mp4
 
 ![image](https://user-images.githubusercontent.com/90145797/206859145-3cb402f8-3f24-4052-b4aa-64b23ddfe6fb.png)
 
