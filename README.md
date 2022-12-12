@@ -1,5 +1,6 @@
 ### AI application
-
+#### Face detection Jupyter notebook
+link = https://github.com/Khai2708/AI_application_finalproject/blob/main/face_detection.ipynb
 
 #### output
 
