@@ -2,6 +2,9 @@
 #### Face detection Jupyter notebook
 link = https://github.com/Khai2708/AI_application_finalproject/blob/main/face_detection.ipynb
 
+![image](https://user-images.githubusercontent.com/90145797/207128955-5a3f52ec-e796-4361-94b2-96526b8a0de5.png)
+
+
 #### output
 
 ##### Test with videos first
